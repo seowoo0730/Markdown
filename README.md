@@ -50,6 +50,11 @@ _italic_
 2. second
 3. thrid
 
+<!-- 체크 목록 -->
+
+- [x] first
+- [ ] second
+
 ---
 
 <!-- link -->

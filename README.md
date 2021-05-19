@@ -56,6 +56,8 @@ _italic_
 
 [Github](https://github.com)
 
+---
+
 <!-- table -->
 
 | \*  | 1   |   2 |  3  |
@@ -63,3 +65,14 @@ _italic_
 | 1   | 1   |   2 |  3  |
 | 2   | 2   |   4 |  6  |
 | 3   | 3   |   6 |  9  |
+
+---
+
+<!-- code -->
+
+console.log('code')
+`console.log('code')`
+
+```js
+console.log('code')
+```

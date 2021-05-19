@@ -1,3 +1,7 @@
+<!-- image -->
+
+![markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+
 <!-- 제목 -->
 
 # 1
@@ -24,9 +28,13 @@
 _italic_
 ~~strikethrough~~
 
+---
+
 <!-- quote -->
 
 > 인용문
+
+---
 
 <!---------- list ---------->
 <!-- 순서 없는 목록 -->
@@ -41,6 +49,8 @@ _italic_
 1. first
 2. second
 3. thrid
+
+---
 
 <!-- link -->
 
